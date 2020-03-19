@@ -1,0 +1,22 @@
+.conainerPagination {
+  width: 500px;
+  margin: 20px auto;
+  &List {
+    margin: 20px auto;
+  }
+}
+
+.active {
+  color: #333;
+  background-color: #a19f9f;
+}
+
+li {
+  cursor: pointer;
+  display: inline;
+  color: #a19f9f;
+  background-color: #fff;
+  padding: 8px 15px 8px 15px;
+  font-size: 20px;
+  border: 1px solid #a19f9f;
+}

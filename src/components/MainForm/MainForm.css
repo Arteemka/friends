@@ -1,0 +1,67 @@
+body,
+.changeSex,
+.inputFilterFrom,
+.inputFilterTo,
+.labels,
+.changePerPage {
+  color: #333;
+  font-size: 17px;
+  font-family: Arial;
+}
+
+.labels {
+  font-size: 40px;
+  font-weight:bold;
+  margin:0 50px 10px 0px;
+}
+
+.changePerPage{
+  padding: 5px;
+  width: 70px;
+  margin:0px 0px 20px 10px;
+}
+
+.container {
+  width: 723px;
+  margin: 20px auto;
+
+  &Input {
+    width: 723px;
+    margin: 0 auto;
+  }
+}
+
+.inputFind {
+  padding: 10px;
+  width: 700px;
+  font-size: 17px;
+  color: #333;
+}
+
+.filter {
+  width: 723px;
+  margin: 10px auto;
+}
+
+.inputFilterFrom,
+.inputFilterTo {
+  padding: 5px;
+  width: 30px;
+  margin: 0 10px 0 10px;
+}
+
+.inputFilterTo {
+  margin-right: 90px;
+}
+
+.inputFilterWorks {
+  width: 150px;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+.changeSex {
+  padding: 4px;
+  width: 90px;
+  margin-right: 100px;
+}
